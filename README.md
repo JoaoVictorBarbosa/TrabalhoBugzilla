@@ -1,2 +1,0 @@
-# TrabalhoBugzilla
-Trabalho Bugzilla
